@@ -35,7 +35,7 @@ The main goals of this project are to:
 ```bash
 git clone https://github.com/fckveza/linejs-android.git
 cd linejs-android
-npm install
+node app.js
 ```
 
 Import the modules as usual:
